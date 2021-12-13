@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539025577045",
+    "firebase_url": "https://test-login-df937-default-rtdb.firebaseio.com",
+    "project_id": "test-login-df937",
+    "storage_bucket": "test-login-df937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539025577045:android:9ed1f922270cce988170dc",
+        "android_client_info": {
+          "package_name": "com.example.pets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539025577045-h3g9lkgcimcooqk4te5ik31tlrhfhoeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7U19KT7BXNMYp2h01F4fH8tenjehwuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539025577045-h3g9lkgcimcooqk4te5ik31tlrhfhoeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
