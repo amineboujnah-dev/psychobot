@@ -47,6 +47,7 @@ dependencies:
   url_launcher: ^6.0.9
   share_plus: ^2.1.4
   fluttertoast: ^8.0.7
+  http: ^0.13.4
 
 dev_dependencies:
   flutter_test:

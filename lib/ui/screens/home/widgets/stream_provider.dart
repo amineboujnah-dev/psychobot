@@ -14,9 +14,9 @@ class HomeScreen extends StatefulWidget {
 class _HomeState extends State<HomeScreen> {
   List<ChatUsers> chatUsers = [
     ChatUsers(
-        name: "Jane Russel",
+        name: "Psychobot",
         messageText: "Awesome Setup",
-        imageURL: "assets/images/icon1.jpg",
+        imageURL: "assets/images/psychobot.png",
         time: "Now"),
     ChatUsers(
         name: "Glady's Murphy",
